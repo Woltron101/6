@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"boo",
+				"book"
+			],
+			[
+				"cn",
+				"cnt1"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"b",
+				"bgcolor"
+			],
+			[
+				"ft",
+				"ft1.jpg	w:58 h:58"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"fo",
+				"logo_footer.png	w:39 h:45"
+			],
+			[
+				"circl",
+				"circle1.png	w:18 h:18"
+			],
+			[
+				"c",
+				"circle.png	w:18 h:18"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"av",
+				"ava3.jpg	w:60 h:60"
+			],
+			[
+				"a",
+				"ava2.jpg	w:60 h:60"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"m-",
+				"margin-left"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"i",
+				"img5.jpg	w:621 h:241"
+			],
+			[
+				"img",
+				"img3.jpg	w:621 h:240"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"d",
+				"d-n	display: none;"
+			],
+			[
+				"ar",
+				"arr2.png	w:7 h:7"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"o",
+				"ov	overflow: ${1:hidden};"
+			],
+			[
+				"ta",
+				"tail-title.gif	w:3 h:44"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"brt",
+				"border-top"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"ov",
+				"ov-h	overflow: hidden;"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"bot",
+				"bottom_bg.png	w:1 h:290"
+			],
+			[
+				"top",
+				"top_bg.png	w:1 h:38"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"fw",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"cl",
+				"cl-b	clear: both;"
+			],
+			[
+				"bo",
+				"bol	CSS - font-weight: bold;"
+			],
+			[
+				"m-t",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"h",
+				"hid	CSS - overflow: hidden;"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"to",
+				"top	CSS - top: 0;"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"m-l",
+				"margin-left"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"mri",
+				"margin-right"
+			],
+			[
+				"BG",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"s",
+				"slid1.png	w:54 h:59"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"bgr",
+				"bgr-n	background-repeat: no-repeat;"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"n",
+				"hidden"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.987/readme.txt",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.302/readme.txt",
+		"/C/Users/Сергей/Desktop/psd/02482.psd",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.183/readme.txt",
+		"/C/Users/Сергей/Desktop/sorax_lesons.js",
+		"/C/Users/Сергей/Desktop/тест/тест/index.html",
+		"/C/Users/Сергей/Desktop/тест/тест/removeClass.js",
+		"/C/Users/Сергей/Desktop/тест/тест/addClass.js",
+		"/C/Users/Сергей/Desktop/Новый текстовый документ (2).txt",
+		"/C/Users/Сергей/Desktop/2/jQ/lab-1.html",
+		"/C/Users/Сергей/Desktop/Новая папка (2)/jsbursa1/xo — копия/index.html",
+		"/C/Users/Сергей/Desktop/Новая папка (2)/jsbursa1/xo — копия/js.js",
+		"/C/Users/Сергей/Desktop/Новая папка (2)/jsbursa1/index.html",
+		"/C/Users/Сергей/Desktop/Новая папка (2)/jsbursa1/xo/style.css",
+		"/C/Users/Сергей/Desktop/Новая папка (2)/jsbursa1/xo/index.html",
+		"/C/Users/Сергей/Desktop/Новая папка (2)/jsbursa1/index.js",
+		"/C/Users/Сергей/Desktop/Новая папка (2)/jsbursa1/getWinner.js",
+		"/C/Users/Сергей/Desktop/Новая папка (2)/jsbursa1/xo/js.js",
+		"/C/Users/Сергей/Downloads/js.js",
+		"/C/Users/Сергей/Desktop/2/index.html",
+		"/C/Users/Сергей/Desktop/2/jQ/demo-1-1.html",
+		"/E/windows/специалист/[Специалист] Программирование на JavaScript (jQuery,AJAX) (2013)/Уровень 3а/jquery1_materials/labs/lab-2-1.html",
+		"/D/Новая папка/Новая папка/Лабы/module-1/statements/for-1.html",
+		"/C/Users/Сергей/Desktop/2/stars.js",
+		"/C/Users/Сергей/Desktop/2/objekt_book.js",
+		"/C/Users/Сергей/Desktop/2/asdfsdfdf.html",
+		"/C/Users/Сергей/Desktop/2/objekt.js",
+		"/C/Users/Сергей/Desktop/2/lab.html",
+		"/C/Users/Сергей/Desktop/2/test.html",
+		"/C/Users/Сергей/Desktop/2/lab-2-1.html",
+		"/E/windows/специалист/[Специалист] Программирование на JavaScript (jQuery,AJAX) (2013)/Уровень 3а/jquery1_materials/labs/lab-1.html",
+		"/C/Users/Сергей/Desktop/2/dogs.js",
+		"/C/Users/Сергей/Desktop/2/table.js",
+		"/C/Users/Сергей/Desktop/2/switch.js",
+		"/C/Users/Сергей/Desktop/2/fio.js",
+		"/C/Users/Сергей/Desktop/2/ygaday chislo.js",
+		"/D/Новая папка/Новая папка/Лабы/lab-3.html",
+		"/C/Users/Сергей/Desktop/2/switch.html",
+		"/D/Новая папка/Новая папка/Лабы/module-1/statements/switch.html",
+		"/D/Новая папка/Новая папка/Лабы/module-1/statements/if-1.html",
+		"/D/Новая папка/Новая папка/Лабы/module-1/statements/if-2.html",
+		"/D/Новая папка/Новая папка/Лабы/module-1/statements/if-3.html",
+		"/D/Новая папка/Новая папка/Лабы/lab-2.html",
+		"/C/Users/Сергей/Desktop/2/table_ch.js",
+		"/D/Новая папка/Новая папка/Лабы/module-1/statements/for-2.html",
+		"/C/Users/Сергей/Desktop/2/index — копия.html",
+		"/C/Users/Сергей/Desktop/2 — копия/index.html",
+		"/I/Лабы/module-1/statements/for-2.html",
+		"/C/Users/Сергей/Desktop/2/if_else.js",
+		"/C/Users/Сергей/Desktop/22/css/style.css",
+		"/C/Users/Сергей/Desktop/22/index.html",
+		"/C/Users/Сергей/Desktop/3/style.css",
+		"/C/Users/Сергей/Desktop/3/2/index.html",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.120/readme.txt",
+		"/D/torentDownloads/CSS Hat 2.0.5 & PNG Hat 1.1.5 (st), 1.1.8/readme.txt",
+		"/I/Crack/readme.txt",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.098/readme.txt",
+		"/C/Users/Сергей/Desktop/22/fonts/font.css",
+		"/C/Users/Сергей/Desktop/Новый текстовый документ.txt",
+		"/C/Users/Сергей/Desktop/11/sporthere/html/style.css",
+		"/C/Users/Сергей/Desktop/11/sporthere/html/index.html",
+		"/C/Users/Сергей/Desktop/22/Новая папка/font.css",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.825/font.css",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.756/font.css",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.530/stylesheet.css",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.703/font.css",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.079/font.css",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.443/Read Me.txt",
+		"/C/Users/Сергей/Desktop/портфоліо/2/index.html",
+		"/C/Users/Сергей/Desktop/портфоліо/2/css/style.css",
+		"/C/Users/Сергей/Desktop/Урок 1. Введение в JavaScript/Samples/001_Introduction/001_JS_Integration.htm",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.968/Font.txt",
+		"/C/Users/Сергей/Desktop/1/css/style.css",
+		"/C/Users/Сергей/Desktop/1/index.html",
+		"/C/Users/Сергей/Desktop/портфоліо/1/index.html",
+		"/C/Users/Сергей/Desktop/3/3/css/style.css",
+		"/C/Users/Сергей/Desktop/4/css/style.css",
+		"/C/Users/Сергей/Desktop/портфоліо/3/2/index.html",
+		"/C/Users/Сергей/Desktop/5/index.html",
+		"/C/Users/Сергей/Desktop/5/css/style.css",
+		"/C/Users/Сергей/Desktop/портфоліо/3/2/css/style.css",
+		"/C/Users/Сергей/Desktop/4/index.html",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Сергей/Desktop/3/2/css/style.css",
+		"/C/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+		"/C/Users/Сергей/Desktop/портфоліо/1/css/style.css",
+		"/C/Users/Сергей/Desktop/ReadMe.txt",
+		"/C/Users/Сергей/Desktop/emmet (2).txt",
+		"/C/Users/Сергей/Desktop/emmet.html",
+		"/C/Users/Сергей/Desktop/new  1.txt",
+		"/C/Users/Сергей/Desktop/karusel/index.html",
+		"/C/Users/Сергей/Desktop/karusel/css/style.css",
+		"/C/Users/Сергей/Desktop/3/1/css/style.css",
+		"/C/Users/Сергей/Desktop/3/1/index.html",
+		"/C/Users/Сергей/Desktop/3/index.html",
+		"/C/Users/Сергей/Desktop/3/css/style.css",
+		"/D/torentDownloads/csshat1.2/README.txt",
+		"/C/Users/Сергей/Desktop/2/css/style.css",
+		"/E/windows/все/verstka/docs/селекторы.css",
+		"/E/windows/все/verstka/1.txt",
+		"/E/windows/все/verstka/css3.txt",
+		"/C/Users/Сергей/Desktop/source.css",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Installed Packages/snippets.json",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Installed Packages/Emmet.sublime-package",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/hidden.sublime-snippet",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/font.sublime-snippet",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.330/uppercase.sublime-snippet",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/hover.sublime-snippet",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/hello.sublime-snippet",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/bababa.sublime-snippet",
+		"/C/Users/Сергей/AppData/Local/Temp/Rar$DIa0.435/hover.sublime-snippet",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/User/di.sublime-snippet",
+		"/C/Users/Сергей/Desktop/2 — копия/css/style.css",
+		"/C/Users/Сергей/Desktop/index.html",
+		"/C/Users/Сергей/Desktop/style.css",
+		"/C/Users/Сергей/Desktop/test/css/style.css",
+		"/C/Users/Сергей/Desktop/test/index.html",
+		"/C/Users/Сергей/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col",
+			"f",
+			"500",
+			"winO",
+			"\"\")\n",
+			";\n",
+			".header_nav li a",
+			"data",
+			"display",
+			"141px;",
+			"1pxpx",
+			";\n",
+			"div",
+			"\n.search {\n	width: 192px;\n	height: 32px;\n	background-color: transparent;\n	border: 1px solid #949494;\n}",
+			"bold",
+			"letter-spacing: 2px;",
+			"\n#header>ul.hmenu>li>a.hm1 {\n	padding: 23px 23px 37px 31px !important;\n}\n\n#header>ul.hmenu>li>a.hm2 {\n	padding: 19px 57px 41px 57px !important;\n}\n\n#header>ul.hmenu>li>a.hm3 {\n	padding: 27px 50px 33px 57px !important;\n}\n\n#header>ul.hmenu>li>a.hm4 {\n	padding: 26px 52px 34px 58px !important;\n}\n\n#header>ul.hmenu>li>a.hm6 {\n	padding: 28px 49px 32px 39px !important;\n}\n#header>ul.hmenu>li>a.hm5 {\n	padding: 26px 47px 34px 44px !important;\n}\n",
+			"\n.hm1{\n	\n}",
+			"470px",
+			"\n.team_sr:hover, .team_sr:active, .team_sr:focus {\n	background-color: #004bff;\n	position: absolute;\n\n}",
+			"\na.kryg {\n	height: 10px;\n	width: 10px;\n	background-color: #000;\n	margin: 100px;\n	float: left;\n	position: absolute;\n}\n.kartinka {\n	height: 100px;\n	width: 100px;\n	background-color: #00f;\n	margin-top: -100px;\n	float: left;\n	position: absolute;\n}/*\na.kryg:hover .kartinka {\n	background-color: #f0f;\n}*/\na.kryg:active .kartinka {\n	background-color: #fff;\n}\na.kryg:focus .kartinka {\n	background-color: #0ff;\n}",
+			"\n.kryg {\n	height: 10px;\n	width: 10px;\n	background-color: #000;\n}",
+			"	width: 960px;",
+			"width: 960px;",
+			"945",
+			"70px",
+			"open",
+			"\n.hmenu li:first-child a {\n	border-left:none;\n}",
+			"\n.footer_h {\n	font-size: 39px;\n}",
+			"teem",
+			"\n#teem_img1 {\n	background-image: url(../img/foto1.jpg);\n	background-repeat: none;\n	height: 200px;\n	width: 210px;\n}",
+			"gradient",
+			"\n.map_h {\n	font-size: 24px;\n\n}",
+			"position",
+			"\n.hmenu li a:hover, .hmenu li a:active, .hmenu li a:focus {\n	border-bottom: 12px solid #024cfd;\n	position: relative;\n	bottom: 12px;\n	border-left: none;\n	border-right: none;\n	z-index: 1;\n	padding: 30px 46px 30px 46px;\n}",
+			"\n.hmenu li:first-child a {\n	border-left:none;\n}",
+			"text",
+			"\n#information .article:first-child img {\n	float: left;\n	margin-right: 70px;\n	border-bottom: 1px solid #c5c5c5;\n\n}",
+			"60px",
+			"cen",
+			"</div>",
+			"</",
+			"shadow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"		\n",
+			"\n.fs44 {\n	font-size: 44px;\n}",
+			"	width: 940px;\n	margin: 0 10px;",
+			"960"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BitTorrent Sync.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
